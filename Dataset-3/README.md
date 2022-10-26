@@ -16,10 +16,10 @@ The test set should be used to see how well your model performs on unseen data.
 ![image](https://user-images.githubusercontent.com/64286223/198135867-9d1a0c07-6df3-409f-b3be-f00068cd9320.png)
 
 #### Variable Notes
-pclass: A proxy for socio-economic status (SES)
-1st = Upper
-2nd = Middle
-3rd = Lower
+pclass: A proxy for socio-economic status (SES) <br>
+1st = Upper <br>
+2nd = Middle <br>
+3rd = Lower <br>
 
 age: Age is fractional if less than 1. If the age is estimated, is it in the form of xx.5
 
