@@ -11,19 +11,11 @@ The training set should be used to build your machine learning models. For the t
 
 The test set should be used to see how well your model performs on unseen data.
 
-## Data Dictionary
-Variable	Definition	Key
-survival	Survival	0 = No, 1 = Yes
-pclass	Ticket class	1 = 1st, 2 = 2nd, 3 = 3rd
-sex	Sex	
-Age	Age in years	
-sibsp	# of siblings / spouses aboard the Titanic	
-parch	# of parents / children aboard the Titanic	
-ticket	Ticket number	
-fare	Passenger fare	
-cabin	Cabin number	
-embarked	Port of Embarkation	C = Cherbourg, Q = Queenstown, S = Southampton
-Variable Notes
+## Data Dictionary <br>
+
+![image](https://user-images.githubusercontent.com/64286223/198135867-9d1a0c07-6df3-409f-b3be-f00068cd9320.png)
+
+#### Variable Notes
 pclass: A proxy for socio-economic status (SES)
 1st = Upper
 2nd = Middle
